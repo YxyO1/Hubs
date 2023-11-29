@@ -1,8 +1,8 @@
 local placeId = game.PlaceId
 
 local scripts = {
-    ["7346416636"] = "https://raw.githubusercontent.com/SpxlZ/Spxlz_Hub12/main/Project1.lua",
-    ["7903991471"] = "https://raw.githubusercontent.com/SpxlZ/Spxlz_Hub12/main/Project3.lua"
+    ["7346416636"] = "https://raw.githubusercontent.com/YxyO1/Hubs/main/PopItHub.lua",
+    ["7903991471"] = "https://raw.githubusercontent.com/YxyO1/Hubs/main/PetTrading.lua"
 }
 
 local scriptToLoad = scripts[tostring(placeId)]
